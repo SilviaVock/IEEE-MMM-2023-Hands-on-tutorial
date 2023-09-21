@@ -1,5 +1,5 @@
 numpy
 matplotlib
-scikitlearn
+sklearn
 sympy
 pandas

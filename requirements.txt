@@ -1,3 +1,5 @@
 numpy
 matplotlib
 sklearn
+sympy
+pandas
